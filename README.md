@@ -5,7 +5,7 @@ Slides and materials for our study group with reference "An Introduction to Stat
 
 1. 2014-11-19, Ch2: The fundamental concepts of statistical learning ([slide](http://datasciencehc.github.io/Study-ISLR/Ch02_StatisticalLearning/))  
 2. 2014-11-26, Ch3: Introduction to linear regression ([slide](http://datasciencehc.github.io/Study-ISLR/Ch03_LinearRegression/))  
-3. 2014-12-03, Ch4: Classification ([slide](http://datasciencehc.github.io/Study-ISLR/Ch04_Classification/)
+3. 2014-12-03, Ch4: Classification ([slide](http://datasciencehc.github.io/Study-ISLR/Ch04_Classification/))
 
 ## 貢獻者 Contributors
 - Philip Lin
