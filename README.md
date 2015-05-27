@@ -10,7 +10,7 @@ Slides and materials for our study group with reference "An Introduction to Stat
 5. 2014-12-17, Ch6: Linear Model Selection and Regularization ([slide](http://datasciencehc.github.io/Study-ISLR/Ch06_ModelSelectionAndRegularization/Ch6.html))
 6. 2015-01-07, Ch7: Moving beyond linearity ([slide](http://datasciencehc.github.io/Study-ISLR/Ch07_MovingBeyondLinearity/Ch7.html))
 7. 2015-01-14, Ch8: Tree Based Methods ([slide](http://datasciencehc.github.io/Study-ISLR/Ch08_Tree Based Methods/Ch8.html))
-8. 2015-01-21, Ch9: Support Vector Machines ([slide](http://datasciencehc.github.io/Study-ISLR/Ch07_SupportVectorMachines/Ch9.html))
+8. 2015-01-21, Ch9: Support Vector Machines ([slide](http://datasciencehc.github.io/Study-ISLR/Ch09_SupportVectorMachines/Ch9.html))
 9. 2015-02-04, Ch10: Unsupervised Learning ([slide](http://datasciencehc.github.io/Study-ISLR/Ch10_Unsupervised Learning/Ch10.html))
 
 
